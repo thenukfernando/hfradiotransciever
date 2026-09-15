@@ -7,7 +7,7 @@ The final transmit stage of an 8–16 MHz software-defined radio: a Class-D powe
 
 Met all subsystem requirements and was selected for integration into the full SDR, which successfully transmitted signals picked up by receiving radios.
 
-📄 **[Design Review](./docs/ECE295_OP2_TeamF2.pptx)** — architecture, design evolution, bring-up debugging, and test data.
+📄 **[Design Review](ECE295_OP2_TeamF2.pptx)** — architecture, design evolution, bring-up debugging, and test data.
 
 ---
 
